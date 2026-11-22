@@ -1,31 +1,28 @@
-<p align="center">
-    <img src="./stackos-banner-v2.gif" alt="StackOS" width="100%">
-  </p>
+<div align="center">
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=3BD48B&center=true&vCenter=true&width=600&lines=Software+%26+AI+for+small+businesses;Web+apps+%C2%B7+Automation+%C2%B7+AI+agents;Built+in+W%C3%BCrzbur
-  g%2C+Germany" alt="Typing text">
-  </p>
+<img src="./stackos-banner-v2.gif" alt="StackOS" width="100%">
 
-  <p align="center">
-    <a href="https://stack-os.de">Website</a> ·
-    <a href="https://www.linkedin.com/company/stackos-de">LinkedIn</a>
-  </p>
+<img src="./typing.svg" alt="Software & AI for small businesses">
 
-  ### What we build
-  - **Shift planning app** for restaurants, live in pilot operation
-  - **Internal cockpit** for our own business: inbox, tasks, customers, AI assistant
-  - **Websites & SEO** for craft businesses
+<a href="https://stack-os.de"><img src="./website.svg" alt="Website" width="48"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/stackos-de"><img src="./linkedin.svg" alt="LinkedIn" width="48"></a>
 
-  ### Tech stack
-  <p>
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,supabase,postgres,python,vercel,git&theme=dark" alt="Tech stack">
-  </p>
+### What we build
 
-  ### GitHub stats
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=StackOS-claud&theme=dark&hide_border=true&background=0A0A0A&ring=3BD48B&fire=3BD48B&currStreakLabel=3BD48B" alt="Streak" height="165">
-  </p>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=StackOS-claud&bg_color=0a0a0a&color=f2f4f3&line=3bd48b&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="100%">
-  </p>
+**Shift planning app** for restaurants, live in pilot operation<br>
+**Internal cockpit** for our own business: inbox, tasks, customers, AI assistant<br>
+**Websites & SEO** for craft businesses
+
+### Tech stack
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,cloudflare,supabase,vercel,github&theme=dark" alt="Tech stack">&nbsp;
+<img src="./claude.svg" alt="Claude" width="48">&nbsp;
+<img src="./resend.svg" alt="Resend" width="48">
+
+### GitHub stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=StackOS-claud&theme=dark&hide_border=true&background=111916&ring=2A9D6A&fire=2A9D6A&currStreakLabel=2A9D6A" alt="Streak" height="165">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=StackOS-claud&bg_color=111916&color=f2f4f3&title_color=f2f4f3&line=2a9d6a&point=3bd48b&area=true&area_color=1b4d3e&hide_border=true" alt="Activity graph" width="100%">
+
+</div>
