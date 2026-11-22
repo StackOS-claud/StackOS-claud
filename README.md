@@ -23,6 +23,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=StackOS-claud&theme=dark&hide_border=true&background=111916&ring=2A9D6A&fire=2A9D6A&currStreakLabel=2A9D6A" alt="Streak" height="165">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=StackOS-claud&bg_color=111916&color=f2f4f3&title_color=f2f4f3&line=2a9d6a&point=3bd48b&area=true&area_color=1b4d3e&hide_border=true" alt="Activity graph" width="100%">
+<img src="./macbook-graph.jpg" alt="Contributions in the last 31 days" width="100%">
 
 </div>
