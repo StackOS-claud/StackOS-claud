@@ -1,28 +1,17 @@
 <div align="center">
 
-<img src="./stackos-banner-v2.gif" alt="StackOS" width="100%">
+<img src="./banner.gif" alt="StackOS" width="100%">
 
-<img src="./typing.svg" alt="Software & AI for small businesses">
+<img src="./titel.png" alt="StackOS · You run the business. We build the system behind it." width="100%">
 
-<a href="https://stack-os.de"><img src="./website.svg" alt="Website" width="48"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/company/stackos-de"><img src="./linkedin.svg" alt="LinkedIn" width="48"></a>
+<img src="./bauen.png" alt="What we build: shift planning app for restaurants (live in pilot), internal cockpit with AI assistant, websites and SEO for craft businesses" width="100%">
 
-### What we build
+<img src="./stack.png" alt="Stack: Next.js, TypeScript, Supabase, Vercel, Cloudflare, Claude, Resend" width="100%">
 
-**Shift planning app** for restaurants, live in pilot operation<br>
-**Internal cockpit** for our own business: inbox, tasks, customers, AI assistant<br>
-**Websites & SEO** for craft businesses
+<img src="./jahr.png" alt="One year on GitHub" width="100%">
 
-### Tech stack
+<img src="./ende.gif" alt="StackOS" width="100%">
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,cloudflare,supabase,vercel,github&theme=dark" alt="Tech stack">&nbsp;
-<img src="./claude.svg" alt="Claude" width="48">&nbsp;
-<img src="./resend.svg" alt="Resend" width="48">
-
-### GitHub stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=StackOS-claud&theme=dark&hide_border=true&background=111916&ring=2A9D6A&fire=2A9D6A&currStreakLabel=2A9D6A" alt="Streak" height="165">
-
-<img src="./macbook-graph.jpg" alt="Contributions in the last 31 days" width="100%">
+<a href="https://stack-os.de"><img src="./link-website.png" alt="stack-os.de" height="52"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/company/stackos-de"><img src="./link-linkedin.png" alt="LinkedIn" height="52"></a>
 
 </div>
