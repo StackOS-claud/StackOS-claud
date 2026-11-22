@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="50" viewBox="0 0 700 50">
 <style>
-text{font-family:"SFMono-Regular",Menlo,Consolas,"Liberation Mono",monospace;font-size:24px;font-weight:600;fill:#3bd48b;white-space:pre}
+text{font-family:"SFMono-Regular",Menlo,Consolas,"Liberation Mono",monospace;font-size:24px;font-weight:600;fill:#3f8f72;white-space:pre}
 @keyframes t0{0%{width:0}0.00%{width:0}14.81%{width:489.6px}31.02%{width:489.6px}33.33%{width:0}100%{width:0}}
 #c0 rect{animation:t0 10.8s steps(34,end) infinite}
 @keyframes k0{0%,0.00%{opacity:0}0.01%,33.32%{opacity:1}33.33%,100%{opacity:0}}
